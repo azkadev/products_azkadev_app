@@ -1,21 +1,8 @@
-# ProductsAzkadevApp
+IyBQcm9kdWN0c0F6a2FkZXZBcHAKCgotLS0KCiMjIyBEZW1vCgotLS0KCiMj
+IyBJbnN0YWxsIExpYnJhcnkKCmBgYGJhc2gKZGFydCBwdWIgYWRkIHByb2R1
+Y3RzX2F6a2FkZXZfYXBwCmBgYAoKb3IgZmx1dHRlcgoKYGBgYmFzaApkYXJ0
+IHB1YiBhZGQgcHJvZHVjdHNfYXprYWRldl9hcHBfZmx1dHRlcgpgYGAKIA==
 
-
----
-
-### Demo
-
----
-
-### Install Library
-
-```bash
-dart pub add products_azkadev_app
-```
-
-or flutter
-
-```bash
-dart pub add products_azkadev_app_flutter
-```
- 
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
